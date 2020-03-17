@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: JavaSampleProject
+Bundle-SymbolicName: JavaSampleProject
+Bundle-Version: 1.0.0.qualifier
+Automatic-Module-Name: JavaSampleProject
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
